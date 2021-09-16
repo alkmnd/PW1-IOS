@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "1C9232AF-B759-4FB6-ABB9-A0E5984B5C35"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "263AF30C-BF01-4C70-BE21-0A3B1F18B7AD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "nabelova_1PW1/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "263AF30C-BF01-4C70-BE21-0A3B1F18B7AD - dac53359382b48de"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "nabelova_1PW1.ViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; nabelova_1PW1.ViewController"
+                  moduleName = "nabelova_1PW1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/antonasamolov/Desktop/nabelova_1PW1/nabelova_1PW1/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "263AF30C-BF01-4C70-BE21-0A3B1F18B7AD - 35398cc9bee0ce33"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "nabelova_1PW1.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; nabelova_1PW1.ViewController"
+                  moduleName = "nabelova_1PW1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/antonasamolov/Desktop/nabelova_1PW1/nabelova_1PW1/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "142">
+               </Location>
+               <Location
+                  uuid = "263AF30C-BF01-4C70-BE21-0A3B1F18B7AD - e06ab6cfa2fc3015"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "nabelova_1PW1.ViewController.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;nabelova_1PW1.ViewController&gt;"
+                  moduleName = "nabelova_1PW1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/antonasamolov/Desktop/nabelova_1PW1/nabelova_1PW1/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "263AF30C-BF01-4C70-BE21-0A3B1F18B7AD - 341f4ef51e4ffefc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "nabelova_1PW1.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;nabelova_1PW1.ViewController&gt;"
+                  moduleName = "nabelova_1PW1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/antonasamolov/Desktop/nabelova_1PW1/nabelova_1PW1/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "98">
+               </Location>
+               <Location
+                  uuid = "263AF30C-BF01-4C70-BE21-0A3B1F18B7AD - 9e61cd8a8ee5eacd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "nabelova_1PW1.ViewController.__deallocating_deinit"
+                  moduleName = "nabelova_1PW1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/antonasamolov/Desktop/nabelova_1PW1/nabelova_1PW1/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "91FF94CA-B462-41B9-BFF1-E990B3A01189"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "nabelova_1PW1/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "2"
+            endingLineNumber = "2"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
